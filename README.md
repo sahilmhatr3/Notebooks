@@ -7,4 +7,4 @@ A curated set of Jupyter/Colab notebooks showcasing applied projects in AI, data
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **RAG Pipeline with LLaMA + ChromaDB** | End‑to‑end Retrieval‑Augmented Generation pipeline that ingests PDFs, DOCX, and web pages, enabling domain‑specific Q&A with memory and conversational context. | LLaMA (GGUF), ChromaDB, LangChain, HuggingFace Embeddings |
-| *Future Project* | Placeholder for your next notebook — e.g., model evaluation, visualization, or workflow automation. | TBD |
+| **Diabetic Retinopathy Detection with Transfer Learning (InceptionV3)** | Deep learning pipeline for automated classification of retinal fundus images into 5 severity levels of diabetic retinopathy. Achieved ~73% validation accuracy on the APTOS 2019 dataset. | TensorFlow/Keras, InceptionV3, Sklearn, Matplotlib |
